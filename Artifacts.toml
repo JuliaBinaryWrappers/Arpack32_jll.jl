@@ -6,7 +6,7 @@ os = "macos"
 
     [[Arpack32.download]]
     sha256 = "571fa682c7ea122cbd402f0982adff4e73aceda31db235f02baef270bc963ed4"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.aarch64-apple-darwin-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[Arpack32]]
 arch = "aarch64"
 git-tree-sha1 = "8f015fa3022be69213ebfa3a3352c1f41bd39416"
@@ -16,7 +16,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "b4933061e0c38d76888bc3d41b30b979f8f265777710ab2cc569617d5dcae598"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.aarch64-linux-gnu-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[Arpack32]]
 arch = "aarch64"
 git-tree-sha1 = "95bb0d10e073b076e6927e048e7b7938942eb5bc"
@@ -26,7 +26,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "3c715e129d70b0ab785def63dbf2086fee0daded787d8ef91a6b29a4169402a0"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.aarch64-linux-gnu-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[Arpack32]]
 arch = "aarch64"
 git-tree-sha1 = "a4e910ae8c1ecbb298ed9ba5323d1f22447fb2ad"
@@ -36,7 +36,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "262577f1b4a2f7d09c642be07b87ded22b44e56dd324d95e4498daacac9c6571"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.aarch64-linux-gnu-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[Arpack32]]
 arch = "aarch64"
 git-tree-sha1 = "9645720a2c5621f915b78282a21d0e2fa2a3d587"
@@ -46,7 +46,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "8579f0a9fc9952d877364db79e547d1c1489e08c52398374ef75a42c2b23cf02"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.aarch64-linux-musl-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.aarch64-linux-musl-libgfortran3.tar.gz"
 [[Arpack32]]
 arch = "aarch64"
 git-tree-sha1 = "cf3de73d7e1f567c402145c755fa9d1c4d0224b6"
@@ -56,7 +56,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "a1a07e7bc2da1f21b05876c36fece5de9c5f154ffc5e218ba83ae68b04a05827"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.aarch64-linux-musl-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.aarch64-linux-musl-libgfortran4.tar.gz"
 [[Arpack32]]
 arch = "aarch64"
 git-tree-sha1 = "4b6481a0825d1f60179b104385dc26517a507e83"
@@ -66,7 +66,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "7b475bf3579ac3af0a097e4eb6015f4f4c01df1774ba0d9adce23af7c7368473"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.aarch64-linux-musl-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.aarch64-linux-musl-libgfortran5.tar.gz"
 [[Arpack32]]
 arch = "aarch64"
 git-tree-sha1 = "f994bfb7368d2289986cbb3e4a81cf2914c1f366"
@@ -75,7 +75,7 @@ os = "freebsd"
 
     [[Arpack32.download]]
     sha256 = "8b6a70b4aa5486b938a5c860745255638d710259283c98054cc2dedc8bba1cbc"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.aarch64-unknown-freebsd-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.aarch64-unknown-freebsd-libgfortran4.tar.gz"
 [[Arpack32]]
 arch = "aarch64"
 git-tree-sha1 = "085cf5662c408f6929c0e72bb1bbbe2367c434a2"
@@ -84,7 +84,7 @@ os = "freebsd"
 
     [[Arpack32.download]]
     sha256 = "c4842d01bf4be9f2907441ebc0749da078ac2fc496360b0b7dfd82bf1dfd8cc3"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.aarch64-unknown-freebsd-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.aarch64-unknown-freebsd-libgfortran5.tar.gz"
 [[Arpack32]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -95,7 +95,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "d985370f7068f4470ae0d7f912af467022f8f6190b0a274e064dd4a6349f23e6"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
 [[Arpack32]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -106,7 +106,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "98edf139f4597df1b8b70ec0f861bbf7a2a22bef2cb6e1ab266ba979ecbf031c"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
 [[Arpack32]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -117,7 +117,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "7280cdd31b8987a47f14cdba981c643a8de08b142e8e423427d2f7de00c2f026"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
 [[Arpack32]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -128,7 +128,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "89479ee3caa25fc70262bca42f0680796295d6ed589472420477df10ab114057"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.armv6l-linux-musleabihf-libgfortran3.tar.gz"
 [[Arpack32]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -139,7 +139,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "9f2ec0ea4ec10bb6069fadb2eedf9b5241c5be93fc5792a8e74d61f60dc0df7b"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.armv6l-linux-musleabihf-libgfortran4.tar.gz"
 [[Arpack32]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -150,7 +150,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "9985f547fc966c070fbe53941ccae14ab41f72497f4ebe3969b21ed310f53a77"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.armv6l-linux-musleabihf-libgfortran5.tar.gz"
 [[Arpack32]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -161,7 +161,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "5273fabe0cee0375564f3cd67f472e5953eb12a165848b07b15cbf0023b87982"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
 [[Arpack32]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -172,7 +172,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "19f38f466327b1e2ad9d69dc7fac175fc9c23439e5dc79d1506384c1d1d94d05"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
 [[Arpack32]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -183,7 +183,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "41b2623d5f09059c036feacc320ff8b5f6a7dbcc7b5f543249770537d7c4f347"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
 [[Arpack32]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -194,7 +194,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "4dc3e2fbdf3b2e69ccb294a23e468df6f6e56db931cb1d93ec869a8e1fc244e4"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.armv7l-linux-musleabihf-libgfortran3.tar.gz"
 [[Arpack32]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -205,7 +205,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "cf76a660451016918b43c1cf0fd0508dff1a6ad537614d974c3e613ec034a897"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.armv7l-linux-musleabihf-libgfortran4.tar.gz"
 [[Arpack32]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -216,7 +216,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "e38ef9f6722f950f14b81a9b759b25d788d632231af06b9e0c450762106c8ae4"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.armv7l-linux-musleabihf-libgfortran5.tar.gz"
 [[Arpack32]]
 arch = "i686"
 git-tree-sha1 = "a5d6ee05123b2da367245376eae789023117ab9d"
@@ -226,7 +226,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "15964296792fe5ec167cc215bd1af913b3c5d12449495f184490526b7bb4bf0b"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.i686-linux-gnu-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.i686-linux-gnu-libgfortran3.tar.gz"
 [[Arpack32]]
 arch = "i686"
 git-tree-sha1 = "f73697a936c646e9807caa698f720552b8b2e090"
@@ -236,7 +236,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "daa763d1474710b51ca0d7aebfafb244b8a769f7fb4ebf9bbd3f29a2e6cd739a"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.i686-linux-gnu-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.i686-linux-gnu-libgfortran4.tar.gz"
 [[Arpack32]]
 arch = "i686"
 git-tree-sha1 = "b5d48da6b560c423527dad67af790adac589b3cc"
@@ -246,7 +246,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "5cf4df6ed0bce6637018d331f29b6354b3259d216d0864c27b108d9e092a2b96"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.i686-linux-gnu-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.i686-linux-gnu-libgfortran5.tar.gz"
 [[Arpack32]]
 arch = "i686"
 git-tree-sha1 = "3e9178d2e24948c0076875b0da9406f3212638f3"
@@ -256,7 +256,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "e4d73dee8af943b09d1dbc78e37c53899593b7061cfd288b616cf0c8ba237a89"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.i686-linux-musl-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.i686-linux-musl-libgfortran3.tar.gz"
 [[Arpack32]]
 arch = "i686"
 git-tree-sha1 = "86e406b8959072451bfd3c3b8d156647a1f36afa"
@@ -266,7 +266,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "1480676e5888ca72a2b725f8f15fca8546a9b0bf42583e38023ed2e797f08f72"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.i686-linux-musl-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.i686-linux-musl-libgfortran4.tar.gz"
 [[Arpack32]]
 arch = "i686"
 git-tree-sha1 = "6e1db11da16a42caf009631fefa16647b343d562"
@@ -276,7 +276,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "f83c0089c6e5050a793b55cfac13c56261b38e47a75239aab80dce6f3174334f"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.i686-linux-musl-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.i686-linux-musl-libgfortran5.tar.gz"
 [[Arpack32]]
 arch = "i686"
 git-tree-sha1 = "a5c013161dfb4a9bb670b68cdb235f545680fdc2"
@@ -285,7 +285,7 @@ os = "windows"
 
     [[Arpack32.download]]
     sha256 = "57cf7200837be03b52e7e8cf1c5e72c2373f837b6c03f6a6fcb511f90da9a343"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.i686-w64-mingw32-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.i686-w64-mingw32-libgfortran3.tar.gz"
 [[Arpack32]]
 arch = "i686"
 git-tree-sha1 = "6d5d949115cf17071d010acbf40553360c5ad98c"
@@ -294,7 +294,7 @@ os = "windows"
 
     [[Arpack32.download]]
     sha256 = "7fe0853cf564a248fe67bbcaa5a1bfdd468ad8828cd415fad85c334217846edc"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.i686-w64-mingw32-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.i686-w64-mingw32-libgfortran4.tar.gz"
 [[Arpack32]]
 arch = "i686"
 git-tree-sha1 = "9dd634ce38f8d36d0a08a25db702ded17ed9acf7"
@@ -303,7 +303,7 @@ os = "windows"
 
     [[Arpack32.download]]
     sha256 = "143abdc4ab202df8f6edbd4665f5373c28f7a22aba3d57a468a94c2a27cf4b3a"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.i686-w64-mingw32-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.i686-w64-mingw32-libgfortran5.tar.gz"
 [[Arpack32]]
 arch = "powerpc64le"
 git-tree-sha1 = "045bc135531a496a526fb74136b461e54dda4558"
@@ -313,7 +313,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "2d7785d8fc87089d649e18ceff84df30e96afa0ca2a17add01edfc59738310d1"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.powerpc64le-linux-gnu-libgfortran3.tar.gz"
 [[Arpack32]]
 arch = "powerpc64le"
 git-tree-sha1 = "1ae720c323994a270cd9f7f4154adb61f924df39"
@@ -323,7 +323,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "094ab41ee544b45f76e7b8d4335a536fdc6f4644a16b6ccebfb503d285a3b19c"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.powerpc64le-linux-gnu-libgfortran4.tar.gz"
 [[Arpack32]]
 arch = "powerpc64le"
 git-tree-sha1 = "7bdf43628411adc8cc62c03a89ede4fb003e97d2"
@@ -333,7 +333,17 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "46d5a7c6e3a9b94a484cc0b6f96a4e7f8415b84f93c14b5d1dcc9f786d33fa4e"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[Arpack32]]
+arch = "riscv64"
+git-tree-sha1 = "e22bce6b0bc3b6cd0f455dc4074f20eeb98539e3"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Arpack32.download]]
+    sha256 = "fb075e6bb52dafa474b7fe08012b85e6c7a68284c65cad948e09d22b557e8b9e"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.riscv64-linux-gnu-libgfortran5.tar.gz"
 [[Arpack32]]
 arch = "x86_64"
 git-tree-sha1 = "37ac03a6152c3a5144f937fad1d9a7833968fe01"
@@ -342,7 +352,7 @@ os = "macos"
 
     [[Arpack32.download]]
     sha256 = "69f45666f1e7800956391daac564a5b0a148e2fe31fa4dc6777693b3c5449b0f"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.x86_64-apple-darwin-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[Arpack32]]
 arch = "x86_64"
 git-tree-sha1 = "95a45559dd6511bbf4ad1a675f665d10ef63f722"
@@ -351,7 +361,7 @@ os = "macos"
 
     [[Arpack32.download]]
     sha256 = "ebce0e96c19cdec2d5db2acd018c3fb54709f1cc1d0e1065c57563da77d82cb8"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.x86_64-apple-darwin-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[Arpack32]]
 arch = "x86_64"
 git-tree-sha1 = "b927e1c627af27ac9cfda4dd3a13eac10433e165"
@@ -360,7 +370,7 @@ os = "macos"
 
     [[Arpack32.download]]
     sha256 = "a61c4b0e70ad2e0d79753d3f5bc470b772ae00acc10f1a187961ad69137c09e8"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.x86_64-apple-darwin-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[Arpack32]]
 arch = "x86_64"
 git-tree-sha1 = "80184fcc14638da7a84546238a01e9a890b07b97"
@@ -370,7 +380,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "55f1d8746a22b27c0f172b790c12184bceaabab1e16f6295cb52f63780935e74"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.x86_64-linux-gnu-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[Arpack32]]
 arch = "x86_64"
 git-tree-sha1 = "1eda01104b7e8d589428c1d59fe080202f9081d6"
@@ -380,7 +390,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "ea0260f88bffbb21f17206d6fcc365cf399973f1639b5229c6bc79a4b93610bd"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.x86_64-linux-gnu-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[Arpack32]]
 arch = "x86_64"
 git-tree-sha1 = "b70064ab375df20f1063f96783791d6fd7b9277c"
@@ -390,7 +400,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "b5bed8750427eb98d116cba184724630205f744869b14b1e836f79c3590180f1"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.x86_64-linux-gnu-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[Arpack32]]
 arch = "x86_64"
 git-tree-sha1 = "ea846a36de053d1f1383da59b54ed8a7dad18360"
@@ -400,7 +410,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "72d7212a0ebef210afbe146ae42d22ae3193361e663aed79499d8f098fd835d8"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.x86_64-linux-musl-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.x86_64-linux-musl-libgfortran3.tar.gz"
 [[Arpack32]]
 arch = "x86_64"
 git-tree-sha1 = "6267be620d99f969010692fb37a20c0c76c74621"
@@ -410,7 +420,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "4704088ed5bf55353119b269b0d4087f3773dc3f9d6cbe3008b2d9db66c9f532"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.x86_64-linux-musl-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.x86_64-linux-musl-libgfortran4.tar.gz"
 [[Arpack32]]
 arch = "x86_64"
 git-tree-sha1 = "f59deedf8828371bf6c793483b06c10726499711"
@@ -420,7 +430,7 @@ os = "linux"
 
     [[Arpack32.download]]
     sha256 = "a92916b40478a9d7b2929c464c4d40f3cc867d6aa0d0992931a0c7586e2f1516"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.x86_64-linux-musl-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.x86_64-linux-musl-libgfortran5.tar.gz"
 [[Arpack32]]
 arch = "x86_64"
 git-tree-sha1 = "8df2c8c5c694f697580da29facd825cd344214e8"
@@ -429,7 +439,7 @@ os = "freebsd"
 
     [[Arpack32.download]]
     sha256 = "06fa8c9525f6d4c7b548467ea28d11ec8320338c07f5c84746b5c22feea02fd9"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.x86_64-unknown-freebsd-libgfortran3.tar.gz"
 [[Arpack32]]
 arch = "x86_64"
 git-tree-sha1 = "ad85ea804301e6ae939348a626feefbf1cf46a08"
@@ -438,7 +448,7 @@ os = "freebsd"
 
     [[Arpack32.download]]
     sha256 = "1d754bb308eb2970130daf0f0bd37b4f5004df691e5c024dad80b71a3c2b9c04"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.x86_64-unknown-freebsd-libgfortran4.tar.gz"
 [[Arpack32]]
 arch = "x86_64"
 git-tree-sha1 = "3a40512423f2d3e9f5d6f9c31043be398a82a0af"
@@ -447,7 +457,7 @@ os = "freebsd"
 
     [[Arpack32.download]]
     sha256 = "3074d4d7c689a95cb9a833c52e59f269147bf3a09a6791ce0de0848d3cde4cba"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[Arpack32]]
 arch = "x86_64"
 git-tree-sha1 = "b0f218df1507f0598b04cbd81abfa047482e247d"
@@ -456,7 +466,7 @@ os = "windows"
 
     [[Arpack32.download]]
     sha256 = "001b30aad2125950383008f24e9516a888518090da1553b145ba9b79d937a3d2"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.x86_64-w64-mingw32-libgfortran3.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[Arpack32]]
 arch = "x86_64"
 git-tree-sha1 = "730016a3c358070268add63780bb7140b6c6baa2"
@@ -465,7 +475,7 @@ os = "windows"
 
     [[Arpack32.download]]
     sha256 = "eddb4d4d55174b2bb1f51667227d45dec707b71f96fa9e806e38426b12fd5a96"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[Arpack32]]
 arch = "x86_64"
 git-tree-sha1 = "9b42cf76ed1316229b8423fe7f949334bca7507b"
@@ -474,4 +484,4 @@ os = "windows"
 
     [[Arpack32.download]]
     sha256 = "47e57999c97190db20e3bb15cc35c708f2b6c56fada1458c90c69b8444e3140b"
-    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+1/Arpack32.v3.9.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Arpack32_jll.jl/releases/download/Arpack32-v3.9.1+2/Arpack32.v3.9.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
